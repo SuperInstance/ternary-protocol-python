@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ternary-protocol"
+version = "0.1.0"
+description = "Message passing, synchronization, and handshake protocols for ternary distributed systems"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [{ name = "SuperInstance" }]
+
+[project.urls]
+Repository = "https://github.com/SuperInstance/ternary-protocol-python"
