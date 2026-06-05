@@ -1,3 +1,5 @@
-# ternary-protocol
+# ternary-protocol-python
 
-Message passing, synchronization, and handshake protocols for ternary distributed systems.
+Python bindings for [ternary-protocol](https://github.com/SuperInstance/ternary-protocol) — ternary communication protocol implementation.
+
+See the Rust crate for full documentation.
